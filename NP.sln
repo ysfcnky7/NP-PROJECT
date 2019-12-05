@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{84952D5B-18B3-4F09-96BD-207AAA494576}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{4A5DD8A3-A759-48C7-A413-B04C28A0606C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{A3919792-B06A-4622-AC29-6ED74F2E50BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{2DD584D7-1443-4C74-92D0-9A851186C4A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{20A0E65D-48C1-4A5E-AC5F-8370B4D68EF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.Web", "UI.Web\UI.Web.csproj", "{618685F2-4418-4591-8029-514F10340E94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84952D5B-18B3-4F09-96BD-207AAA494576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84952D5B-18B3-4F09-96BD-207AAA494576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84952D5B-18B3-4F09-96BD-207AAA494576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84952D5B-18B3-4F09-96BD-207AAA494576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5DD8A3-A759-48C7-A413-B04C28A0606C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5DD8A3-A759-48C7-A413-B04C28A0606C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5DD8A3-A759-48C7-A413-B04C28A0606C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5DD8A3-A759-48C7-A413-B04C28A0606C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3919792-B06A-4622-AC29-6ED74F2E50BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3919792-B06A-4622-AC29-6ED74F2E50BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3919792-B06A-4622-AC29-6ED74F2E50BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3919792-B06A-4622-AC29-6ED74F2E50BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD584D7-1443-4C74-92D0-9A851186C4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD584D7-1443-4C74-92D0-9A851186C4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD584D7-1443-4C74-92D0-9A851186C4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD584D7-1443-4C74-92D0-9A851186C4A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A0E65D-48C1-4A5E-AC5F-8370B4D68EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A0E65D-48C1-4A5E-AC5F-8370B4D68EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A0E65D-48C1-4A5E-AC5F-8370B4D68EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A0E65D-48C1-4A5E-AC5F-8370B4D68EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{618685F2-4418-4591-8029-514F10340E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618685F2-4418-4591-8029-514F10340E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618685F2-4418-4591-8029-514F10340E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618685F2-4418-4591-8029-514F10340E94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1F87965-FCA7-4313-BAB0-6EE04A1A5A66}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ysfcnky7.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Entities\\Entities.csproj
+		SccProjectName1 = Entities
+		SccLocalPath1 = Entities
+		SccProjectUniqueName2 = DataAccess\\DataAccess.csproj
+		SccProjectName2 = DataAccess
+		SccLocalPath2 = DataAccess
+		SccProjectUniqueName3 = Core\\Core.csproj
+		SccProjectName3 = Core
+		SccLocalPath3 = Core
+		SccProjectUniqueName4 = Business\\Business.csproj
+		SccProjectName4 = Business
+		SccLocalPath4 = Business
+		SccProjectUniqueName5 = WebApi\\WebApi.csproj
+		SccProjectName5 = WebApi
+		SccLocalPath5 = WebApi
+		SccProjectUniqueName6 = UI.Web\\UI.Web.csproj
+		SccProjectName6 = UI.Web
+		SccLocalPath6 = UI.Web
+	EndGlobalSection
+EndGlobal

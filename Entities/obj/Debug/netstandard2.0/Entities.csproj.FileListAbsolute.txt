@@ -1,0 +1,11 @@
+D:\REPOS\NP\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\REPOS\NP\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\REPOS\NP\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\REPOS\NP\Entities\bin\Debug\netstandard2.0\Core.dll
+D:\REPOS\NP\Entities\bin\Debug\netstandard2.0\Core.pdb
+D:\REPOS\NP\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\REPOS\NP\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\REPOS\NP\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\REPOS\NP\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+D:\REPOS\NP\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\REPOS\NP\Entities\obj\Debug\netstandard2.0\Entities.pdb
